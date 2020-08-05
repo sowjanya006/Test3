@@ -5,5 +5,5 @@ RootFolder            := C:/Users/Sowjanya/Desktop/STUB_E~1/tessy
 Project               := 1024
 Module                := 1028
 Mod_env_files         := C:/PROGRA~1/Razorcat/TESSY_4.2/sys/TEMPLA~1/make/TSA088~1.TPL C:/PROGRA~1/Razorcat/TESSY_4.2/sys/TEMPLA~1/tks/tks-gnu.tpl C:/PROGRA~1/Razorcat/TESSY_4.2/sys/src/comm/TS_TIM~2.C C:/PROGRA~1/Razorcat/TESSY_4.2/sys/compiler/TYPETA~1/TS_GCC~1.XML
-Mod_src_files         :=  C:/Users/Sowjanya/Desktop/stub_function.c
+Mod_src_files         :=  C:/Users/Sowjanya/Desktop/STUB_E~1/tessy/stub_function.c
 Mod_tgt_control       := C:/Users/Sowjanya/Desktop/STUB_E~1/tessy/work/00000401/00000403/00000404/IDBBUI~1/TARGET~1.MAK

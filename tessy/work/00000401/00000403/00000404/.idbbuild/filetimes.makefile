@@ -1,5 +1,5 @@
 .idbbuild/filetimes.timestamp:  \
-C:/Users/Sowjanya/Desktop/stub_function.c \
+C:/Users/Sowjanya/Desktop/STUB_E~1/tessy/stub_function.c \
 C:/PROGRA~1/Razorcat/TESSY_4.2/sys/TEMPLA~1/make/TSA088~1.TPL \
 C:/PROGRA~1/Razorcat/TESSY_4.2/sys/TEMPLA~1/tks/tks-gnu.tpl \
 C:/PROGRA~1/Razorcat/TESSY_4.2/sys/src/comm/TS_TIM~2.C \

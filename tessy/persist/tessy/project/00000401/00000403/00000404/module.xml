@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module name="New Module" description="" specification="" comment="" id="1028" state_mask="0x80000003" uuid="67e63888-14f4-4286-b00c-9d851764dfa4" environment="GNU GCC Eclipse CDT (Default)" parent_uuid="" variant_uuid="" last_modified="1594290455068" last_synchronized="0">
+<module name="New Module" description="" specification="" comment="" id="1028" state_mask="0x80000003" uuid="67e63888-14f4-4286-b00c-9d851764dfa4" environment="GNU GCC Eclipse CDT (Default)" parent_uuid="" variant_uuid="" last_modified="1596598613587" last_synchronized="0">
 	<version value="4.2.8">
 	</version>
 	<properties>
@@ -252,7 +252,7 @@
 	</properties>
 	<compiler_options includes="" defines="" commandline=""/>
 	<sources>
-		<source directory="$(USERPROFILE)\Desktop" filename="stub_function.c" path="$(USERPROFILE)\Desktop\stub_function.c" hide_functions="0">
+		<source directory="$(PROJECTROOT)\tessy" filename="stub_function.c" path="$(PROJECTROOT)\tessy\stub_function.c" hide_functions="0">
 			<compiler_options includes="" defines="" commandline=""/>
 			<properties>
 				<property name="Compiler Commandline" type="String" flags="0xC8000009" value="">

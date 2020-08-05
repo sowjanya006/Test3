@@ -1,4 +1,4 @@
-Src_include_stub_function := C:/Users/Sowjanya/Desktop 
+Src_include_stub_function := C:/Users/Sowjanya/Desktop/STUB_E~1/tessy 
 Src_cppflags_stub_function := 
 #Src_cppflags_tgt_stub_function :=
 #Src_cflags_tgt_stub_function :=
